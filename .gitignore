@@ -3,10 +3,6 @@
 *.env
 .env.example
 
-# Reports & Documentation
-docs/
-*.docx
-
 # Python
 __pycache__/
 *.py[cod]
